@@ -1,0 +1,10 @@
+Deskripsi
+1.	Customer Name : name of customers
+2.	Customer e-mail : e-mail of customers
+3.	Country : country of customers
+4.	Gender : gender of customers, 0:women, 1:man
+5.	Age : age of customers
+6.	Annual Salary : annual salary of customers
+7.	Credit Card Debt : Credit Card Debt of customers 
+8.	Net Worth (Asset – Liabilities) : Liabilities of customes 
+9.	Car Purchase Amount : amount car to purchase
